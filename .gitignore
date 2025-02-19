@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# Weaviate files (if any local storage)
+weaviate_data/
+
+# Docker
+docker-compose.yml
+.Dockerfile.swp
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db

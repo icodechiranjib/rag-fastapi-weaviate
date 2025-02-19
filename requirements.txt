@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+weaviate-client
+sentence-transformers
+python-multipart
+PyPDF2
+python-docx
